@@ -11,10 +11,7 @@ Diese Sammlung dient der Vorbereitung auf die Zwischenprüfung und soll eine zen
 Die Sammlung enthält:
 
 - Originalprüfungen (PDFs, sofern verfügbar)
-- Beispiel- und Musterlösungen
-- Übungsaufgaben & Wiederholungen
-- Lernmaterialien & Zusammenfassungen
-- Tipps zur Vorbereitung und Strategien zur Bearbeitung
+- Musterlösungen
 
 ---
 
